@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Stigs files
+.python-version
+pyproject.toml
+uv.lock
+__init__.py
